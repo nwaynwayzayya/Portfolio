@@ -3,8 +3,8 @@
 This is a **simple portfolio website** built by following along with a YouTube tutorial.
 
 📺 **Tutorial Source:**  
-[Build A Simple Personal Portfolio Website Using HTML And CSS | Website Design With HTML And CSS](https://youtu.be/Slxdo0Dqxlk?si=MVuXWJwHQdUIyj82)  
-Created by **CodingNepal**
+[Build a Responsive Personal Portfolio with HTML & CSS | Full Beginners Tutorial 🔥🚀](https://youtu.be/Slxdo0Dqxlk?si=uGqRpzv_XdsCs7U4)  
+Created by **Under Ctrl**
 
 ## 🚀 Features
 
@@ -19,12 +19,12 @@ Created by **CodingNepal**
 
 ## 📌 Notes
 
-This project was created **for learning purposes only**. The design and layout were entirely based on the original tutorial. Minor modifications may have been made during the follow-along process.
+This project was created **for learning purposes only**. The design and layout were entirely based on the original tutorial. 
 
 ## 🔗 Live Demo
 
 You can view the live version here:  
-👉 [Your GitHub Pages Link Here](https://your-username.github.io/your-repo-name/)
+👉 [Your GitHub Pages Link Here](https://nwaynwayzayya.github.io/Portfolio/)
 
 ---
 
